@@ -16,7 +16,7 @@
 🛠️ A software engineer and Flutter developer.
 @@ 💻 Proficient in building mobile and desktop applications.@@
 +  ✔️ Able to build cross-platform systems with a responsive user interface.
-!  👨‍💻 I am 17 years old, but I've built +5 freelance projects.
+!  👨‍💻 An 18-year-old tech guy, with +6 freelance projects.
 #  ✨ If you can imagine it, you can program it. 
 ```
 
